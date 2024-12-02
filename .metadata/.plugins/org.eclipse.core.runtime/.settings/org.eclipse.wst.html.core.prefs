@@ -1,0 +1,4 @@
+cleanupEOLCode=EOL_Windows
+compressEmptyElementTags=true
+convertEOLCodes=true
+eclipse.preferences.version=1
